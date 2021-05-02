@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Software Cupid"
 date:   2021-05-05 09:29:20 +0700
 categories: jekyll update
 ---
