@@ -2,7 +2,7 @@
 title: Colophon
 permalink: /about/
 layout: page
-excerpt: Software Cupid brings you the latest 
+excerpt: Software Cupid brings the latest promising software to your doorsteps.
 comments: false
 ---
 
